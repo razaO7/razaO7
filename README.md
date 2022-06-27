@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @razaO7
-- 👀 I’m interested in ... everything! I am a physics student as well as a passionate learner.
-- 🌱 I’m currently learning Arduino and thinking of starting HTML. I have already learnt Java, Python, R, LaTeX and Mathematica.
+- 👀 I’m interested in ... everything! I am a physics student and a passionate learner.
+- 🌱 I’m currently learning Arduino and thinking of starting HTML. I have already learned Java, Python, R, LaTeX and Mathematica.
 - 💞️ I’m looking to collaborate on Arduino programs that I work on.
 - 📫 Reach me at contactme@rrahamanraza.com
 
